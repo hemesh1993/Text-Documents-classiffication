@@ -44,7 +44,7 @@ A42C 5/00 (Fittings or trimmings for hats)
 
 A41D 10/00 (Pyjamas; Nightdresses)
 
-The data is collected from the kaggle - ALTA 2018 challange
+The data is collected from the kaggle - ALTA 2018 challange which is available from the link - https://www.kaggle.com/c/alta-2018-challenge/data.
 
 Data contains-
 
