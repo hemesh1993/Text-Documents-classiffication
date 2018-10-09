@@ -31,4 +31,18 @@ Some patent applications may refer to several sections of the IPC and this would
 A42C 5/00 (Fittings or trimmings for hats)
 A41D 10/00 (Pyjamas; Nightdresses)
 
-# The goal of this task is to automatically classify Australian patents into one of the principal International Patent Classification sections. This is the first character (A to H) of the primary IPC mark. We have downloaded nearly 5,000 documents, of which we have reserved 1,000 documents for the evaluation of the systems.
+The data is collected from the kaggle - ALTA 2018 challange
+ Data contains
+File descriptions:
+patents.zip - The text files with the patents
+train_data.csv - the training set
+test_data.csv - the test set
+sampleSubmission.csv - a sample submission file in the correct format
+Data fields in train data
+id - an anonymous id unique to a given patent; the corresponding patent is a text file with the name id.txt
+first_ipc_mark_section - the main section of the first IPC mark (from A to H)
+
+
+The goal of this task is to automatically classify Australian patents into one of the principal International Patent Classification sections. This is the first character (A to H) of the primary IPC mark. We have downloaded nearly 5,000 documents, of which we have reserved 1,000 documents for the evaluation of the systems.
+
+
