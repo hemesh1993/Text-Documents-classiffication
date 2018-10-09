@@ -1,2 +1,2 @@
-# Text-Documents-classiffication
+# Text-Documents-classification
 Patent-Documents classification 
