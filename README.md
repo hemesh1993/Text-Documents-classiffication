@@ -1,4 +1,4 @@
-# 2018 ALTA 2018 challenge Description: Classifying Patent Applications
+# 2018 ALTA 2018 challenge Description: Classification Patent Applications
 
 Basic Task Description:
 When a patent application is submitted there is a process where the application is classified by examiners of patent offices or other people. Patent classifications make it feasible to search quickly for documents about earlier disclosures similar to or related to the invention for which a patent is applied for, and to track technological trends in patent applications.
